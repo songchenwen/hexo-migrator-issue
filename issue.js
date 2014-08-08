@@ -11,6 +11,8 @@ var label = (issue_migrator && issue_migrator.label) ? issue_migrator.label : nu
 var clean = (issue_migrator && issue_migrator.clean) ? issue_migrator.clean : false;
 var including_closed = (issue_migrator && issue_migrator.including_closed) ? issue_migrator.including_closed : false;
 
+issue_count_per_page = (issue_migrator && issue_migrator.issue_count_per_page) ? issue_migrator.issue_count_per_page : issue_count_per_page;
+
 var issue_repo;
 var log = hexo.log;
 var file = hexo.util.file2;

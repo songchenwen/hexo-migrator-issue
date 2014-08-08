@@ -1,8 +1,8 @@
 {
   "name": "hexo-migrator-issue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Migrate github issues Hexo as posts",
-  "main": “issue”,
+  "main": "issue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,12 +12,12 @@
   },
   "keywords": [
     "hexo",
-    “github”,
-    “issue”
+    "github",
+    "issue"
   ],
   "author": {
-    "name": “Song Chenwen”,
-    "email": “emptyzone0@gmail.com"
+    "name": "Song Chenwen",
+    "email": "emptyzone0@gmail.com"
   },
   "engines": {
     "hexo": "*"
@@ -33,5 +33,5 @@
   "bugs": {
     "url": "https://github.com/songchenwen/hexo-migrator-issue/issues"
   },
-  "homepage": "https://github.com/songchenwen/hexo-migrator-issue”
+  "homepage": "https://github.com/songchenwen/hexo-migrator-issue"
 }
