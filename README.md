@@ -9,7 +9,7 @@ The issue title will be used as the file name and the issue body as the file con
 
 ##Advantages
 
-Since Github offers a really nice webpage to edit issues, we can update our blog posts almost anywhere. And with a little work on [Heroku](http://heroku.com), we can even make this progress totally automatic. I will write a post about how that is achieved at [Gary Blog](http://emptyzone.github.io) later.
+Since Github offers a really nice webpage to edit issues, we can update our blog posts almost anywhere. And with a little work on [Heroku](http://heroku.com), we can even make this progress totally automatic. Check [this post](http://emptyzone.github.io/tech/2014/08/11/hexo-auto-publisher-on-heroku/).
 
 ##Install
 
